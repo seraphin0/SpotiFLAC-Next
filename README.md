@@ -3,7 +3,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 > [!IMPORTANT]
-> **SpotiFLAC Next** is a separate project released **as a token of appreciation** for those who have supported [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) through Ko-fi, Patreon, or crypto. It’s not a paid product, but it’s shared privately through a supporter-only post.
+> **SpotiFLAC Next** is a separate project released **as a token of appreciation** for those who have supported [SpotiFLAC](https://github.com/spotbye/SpotiFLAC) through Ko-fi, Patreon, or crypto. It’s not a paid product, but it’s shared privately through a supporter-only post.
 > 
 > If you’re a supporter and can’t access it, feel free to contact me via [Ko-fi](https://ko-fi.com/afkarxyz)
 > 
