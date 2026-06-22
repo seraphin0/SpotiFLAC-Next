@@ -26,4 +26,3 @@
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Apple Music, Amazon Music, Musixmatch, LRCLIB |
 | **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
-| **Tagging Engine** | Native Go | TagLib |
