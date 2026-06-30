@@ -5,8 +5,6 @@
 > [!IMPORTANT]
 > **SpotiFLAC Next** is a separate project released **as a token of appreciation** for those who have supported [SpotiFLAC](https://github.com/spotbye/SpotiFLAC) through Ko-fi, Patreon, or crypto. It’s not a paid product, but it’s shared privately through a supporter-only post.
 > 
-> If you’re a supporter and can’t access it, feel free to contact me via [Ko-fi](https://ko-fi.com/afkarxyz)
-> 
 > If you have any questions or need help with donating, feel free to reach out via [Telegram](https://t.me/afkarxyz) or hi@afkarxyz.fyi
 
 ### [Download](https://github.com/spotbye/SpotiFLAC-Next/releases)
