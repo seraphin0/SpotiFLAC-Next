@@ -18,9 +18,10 @@
 | **Extensions** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Workflow** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Home Feed** | <div align="center">✗</div> | <div align="center">✓</div> |
+| **BYOA (Bring Your Own Account)** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Source Availability** | Open | Closed |
 | **Updates** | Slower | Frequent |
-| **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
-| **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
-| **Lyrics Provider** | LRCLIB | Spotify Web, Apple Music, Amazon Music, Musixmatch, LRCLIB |
-| **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer, Apple Music |
+| **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer |
+| **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer |
+| **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB, Amazon Music |
+| **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer |
