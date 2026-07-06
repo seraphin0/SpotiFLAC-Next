@@ -9,7 +9,9 @@
 
 ### [Download](https://github.com/spotbye/SpotiFLAC-Next/releases)
 
-![SpotiFLAC-Next_1zBskNiOYZ](https://github.com/user-attachments/assets/e60a3a5a-407b-4dfc-8947-fc2f97ed59dd)
+## Preview
+
+![SpotiFLAC-Next](https://github.com/user-attachments/assets/4d483b27-2218-4e2d-8bf3-7605e371fa61)
 
 ## Comparison
 
