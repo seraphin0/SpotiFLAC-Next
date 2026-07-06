@@ -25,5 +25,5 @@
 | **Updates** | Slower | Frequent |
 | **Supported Links** | Spotify | Spotify, Tidal, Qobuz, Amazon Music, Deezer |
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Tidal, Qobuz, Amazon Music, Deezer |
-| **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB, Amazon Music |
+| **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB, Tidal, Amazon Music |
 | **Downloader** | Tidal, Qobuz, Amazon Music | Tidal, Qobuz, Amazon Music, Deezer |
