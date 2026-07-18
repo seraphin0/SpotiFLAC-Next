@@ -29,7 +29,6 @@
 |---------|-----------|----------------|
 | **Server Break** | <div align="center">✓</div> | <div align="center">✗</div> |
 | **Cloudflare Verification** | <div align="center">✓</div> | <div align="center">✗</div> |
-| **Extensions** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Workflow** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **Home Feed** | <div align="center">✗</div> | <div align="center">✓</div> |
 | **BYOA (Bring Your Own Account)** | <div align="center">✗</div> | <div align="center">✓</div> |
